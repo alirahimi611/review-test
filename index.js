@@ -18,6 +18,8 @@ container.addEventListener("mousemove", (e) => {
   container.style.setProperty("--y", y + "px");
 });
 
+console.log("hi")
+
 
 const observer = new IntersectionObserver((entries)=>{
   
