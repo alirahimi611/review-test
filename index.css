@@ -29,7 +29,7 @@ body {
     background: #1a1818b7;
     border-radius: 6px;
     position: absolute;
-    inset: 3px;
+    inset: 2px;
     display: flex;
     z-index: 1;
     color: white;
